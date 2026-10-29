@@ -107,7 +107,7 @@
   </g>
   <g opacity="0.65" class="orb-2">
     <rect x="100" y="300" width="130" height="34" rx="17" fill="#1e293b" stroke="#34d399" stroke-width="1.2" opacity="0.8" />
-    <text x="165" y="322" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" text-anchor="middle">🚀 Fleet & Freight</text>
+    <text x="165" y="322" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" text-anchor="middle">🚀 Fleet &amp; Freight</text>
   </g>
 
   <!-- Foreground Main Title and Headers (Guaranteed on Top) -->
