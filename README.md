@@ -1,139 +1,125 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Awesome Site Search & Product Discovery Banner" width="100%" />
+  <img src="./assets/banner.svg" alt="Awesome Shipping and Logistics Platform Banner" width="100%" />
 </p>
 
-# 🔍 Awesome Site Search & Product Discovery
+# 📦 Awesome Shipping & Logistics Platform 🚚
 
-<p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
-  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome" /></a>
-  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
-</p>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Tracked Category](https://img.shields.io/badge/Ecosystem-Shipping%20%26%20Logistics-blue.svg)](https://github.com/ishandutta2007/Awesome-Shipping-Logistics-Platform)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Shipping-Logistics-Platform/pulls)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-> 🚀 A curated directory of premier **Site Search**, **Ecommerce Search**, **Merchandising**, and **AI-Powered Product Discovery** platforms and open-source engines.
-
-Turn search intent and catalog browsing into high-converting storefront experiences with intelligent autocomplete, faceted navigation, vector/semantic search, and automated merchandising.
-
----
-
-## 📊 Sector Overview & Market Dynamics
-
-The global **AI-Powered Product Discovery & Site Search Market** is valued at approximately **$2.8B – $3.2B** (projected to reach over **$12B by 2034**, expanding at a ~17.6% CAGR), propelled by rapid merchant adoption of neural vector search, conversational AI shopping assistants, and autonomous visual merchandising.
-
-The market landscape is **moderately fragmented**: native ecommerce giants (such as Shopify) control the entry-level baseline, while specialized multi-billion-dollar infrastructure leaders (Algolia, Bloomreach) and high-growth mid-market/enterprise discovery engines (Constructor.io, Athos/Searchspring/Klevu, Nosto, Doofinder) capture diverse segments across headless, B2B, and enterprise commerce without a single platform monopolizing the space.
+A curated catalog of premier **multi-carrier shipping software**, **logistics operations platforms**, **shipping APIs**, **automated label generation tools**, and **open-source logistics engines**. Whether you run a high-volume direct-to-consumer (DTC) ecommerce brand, an omnichannel marketplace, a 3PL warehouse, or a freight forwarding network, this guide details enterprise and developer solutions with verified pricing, free tier limits, company valuations, and repository star metrics.
 
 ---
 
 ## 📑 Table of Contents
-
-- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
-- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
-- [⚡ Open-Source GitHub Projects](#-open-source-github-projects)
-- [🛠️ Architecture & Frameworks for Custom Discovery](#️-architecture--frameworks-for-custom-discovery)
-- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Architectural Building Blocks](#️-architectural-building-blocks)
 - [💖 Support](#-support)
-- [📈 Star History](#-star-history)
-- [⚖️ Disclaimer](#️-disclaimer)
+- [⭐ Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer & License Terms](#️-disclaimer--license-terms)
 
 ---
 
-## ☁️ SaaS & Hosted Platforms
+## 📈 Sector Overview & Market Dynamics
 
-Leading hosted search APIs, visual merchandising engines, and product recommendation platforms, sorted by estimated company scale (valuation / market capitalization / ARR).
+The global **logistics software market** is estimated at **$11B–$16B** (with the dedicated multi-carrier parcel management software segment accounting for **$0.8B–$3.8B**), expanding at an annual growth rate (CAGR) of **8%–11%** fueled by global omnichannel retail and supply-chain modernization.
 
-| Platform | Starting Price | Free Tier / Free Trial Limits | Company Scale (Valuation / Revenue) | Description & Key Features |
+The sector is **moderately to highly fragmented rather than winner-take-all**—while consolidated giants (like Shopify and Auctane/Thoma Bravo) capture widespread SMB and merchant market share, no single provider controls carrier connectivity globally, leaving substantial room for regional parcel consolidators, specialized freight marketplaces, and self-hosted open-source logistics frameworks.
+
+---
+
+## ☁️ SaaS/Hosted Platforms
+
+The table below lists the top commercial shipping, rate shopping, label generation, and logistics platforms, **sorted in descending order by company size (valuation / annual revenue)**.
+
+| Platform | Company Size (Valuation / Revenue) | Starting Tier Price | Free Tier / Free Trial Limits | Core Focus & Features |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Shopify Search & Discovery](https://help.shopify.com/en/manual/online-store/storefront-search)** | **$0/mo** (included with standard Shopify plan) | **Free forever** for Shopify merchants (supports up to 25 filter configurations per collection/search) | Public ($100B+ Market Cap; ~$7B+ Annual Revenue) | Native storefront discovery tool providing custom filters, synonym groups, product boosting/burying rules, and related product recommendations via the Storefront API. |
-| **[Algolia](https://www.algolia.com/)** | **$0.50 per 1,000 requests** (Pay-as-you-go Grow plan) | **Free forever plan**: up to 10,000 search requests/mo and 100,000 records (max 10 indices, 1 GB storage limit) | $2.3B Valuation (~$250M–$365M Annual Revenue) | Developer-first AI search and discovery API featuring sub-50ms typo-tolerant search, InstantSearch UI libraries, and hybrid keyword/vector search. |
-| **[Bloomreach](https://documentation.bloomreach.com/discovery/docs/bloomreach-search-packaging)** | **~$5,000/mo** ($60,000/yr annual starting contract) | **No free trial or free tier** (enterprise evaluation via guided architectural proof-of-concept) | $2.2B Valuation (~$260M ARR) | Enterprise commerce discovery suite powered by Loomi AI; features 1:1 personalization, category merchandising, conversational product advisors, and visual discovery. |
-| **[Constructor.io](https://constructor.io/)** | **~$2,500/mo** (annual enterprise contract) | **No standard self-serve trial** (offers a 4-week $0 Proof Schedule revenue & conversion uplift assessment on live merchant catalog data) | $550M Valuation (~$65M Annual Revenue) | AI-first search and discovery engine featuring Searchandising campaigns, cross-channel rule curation, automated revenue-optimizing ranking, and conversational discovery. |
-| **[Athos Commerce (Searchspring & Klevu)](https://athoscommerce.com/)** | **$449/mo** (Klevu starting tier) / **$599/mo** (Searchspring starting tier) | **14-day free trial** with full feature access (available for Klevu; Searchspring requires customized sales demo & guided POC) | ~$74M Consolidated ARR (backed by PSG) | Unified search and merchandising ecosystem combining Searchspring's visual drag-and-drop merchandising and Klevu's NLP-driven intent search and recommendations. |
-| **[Nosto](https://www.shopware.com/en/deep-search-powered-by-nosto/)** | **$500/mo** (modular base platform tier + usage fee) | **No self-serve free trial** (offers merchant-specific live sandbox Proof of Concept with store catalog integration) | $64M Valuation (~$20M–$38M Annual Revenue) | Commerce experience platform delivering AI deep search, predictive autocomplete, personalized merchandising, dynamic faceting, and automated A/B test optimization across 27 languages. |
-| **[Doofinder](https://www.doofinder.com/)** | **$39/mo** (Basic tier for up to 1,000 monthly search requests) | **30-day free trial** (unlimited queries and all AI features enabled without requiring a credit card upfront) | ~$15M–$21M Annual Revenue | Plug-and-play AI search, conversational shopping assistant, and visual merchandising tool designed for quick no-code integration across Shopify, WooCommerce, and Magento. |
-| **[Boost AI Search](https://developers.boostcommerce.io/)** | **$29/mo** (Launch tier for stores up to $5,000 monthly GMV) | **21-day free trial** (access to all search, filter, and recommendation modules without upfront credit card requirements) | ~$5.5M Annual Revenue | Shopify-specialized search app offering semantic search, fuzzy matching, advanced collection filters, variant merchandising, and dynamic cross-sell recommendations. |
-| **[Fast Simon](https://docs.fastsimon.com/)** | **$39.99/mo** (Starter tier for up to 2,000 monthly sessions) | **Free forever plan** (up to 100 sessions/mo) + **14-day free trial** on paid Starter and Essential plans | ~$5M Annual Revenue | Visual product discovery engine featuring visual search with bounding-box image detection, discovery image galleries, automated merchandising, and instant search. |
+| **[Shopify Shipping](https://www.shopify.com/shipping)** | **~$137B–$200B+ Mkt Cap** ($11.5B+ Rev) | **$39/month** (Shopify Basic tier, includes native shipping) | **3-day free trial** + $1/mo promo for first 3 months; no permanent free tier | Native merchant shipping suite offering pre-negotiated carrier discounts (up to 88% off USPS/UPS/DHL), automated return label creation, and seamless store fulfillment. |
+| **[ShipStation](https://www.shipstation.com/)** | **~$6.6B Auctane Acquisition** (~$800M+ Parent Rev) | **$14.99/month** (Starter tier for up to 50 shipments/mo) | **30-day free trial** (Unlimited features during trial; postage purchased separately) | Multi-carrier shipping and order automation for omnichannel ecommerce; connects to 100+ selling channels, barcode scan-to-print, and rate calculators. |
+| **[Stamps.com](https://www.stamps.com/)** | **~$6.6B Auctane Acquisition** (~$800M+ Parent Rev) | **$14.99/month** (Basic tier for up to 10 labels & 25 stamps/mo) | **30-day free trial** ($100 postage value offer upon signup; trial rolls over to paid tier) | Official USPS-licensed postage printing and shipping software for offices and low-to-mid volume ecommerce shippers needing certified mail and package labels. |
+| **[Pitney Bowes](https://www.pitneybowes.com/)** | **~$2.4B Mkt Cap** ($1.87B Rev) | **$14.99/month** (PitneyShip standard online plan) | **30-day free trial** (Full software access to compare USPS & UPS rates; postage not included) | Enterprise multi-carrier mailing and parcel logistics, shipping hardware, and parcel sorting infrastructure for high-throughput corporate mailrooms and warehouses. |
+| **[EasyPost](https://www.easypost.com/)** | **$1.52B Valuation** ($100M+ Rev) | **$0/month** (Wallet carriers) / **$20/month** (Bring Your Own Carrier accounts) | **Free forever plan: Up to 3,000 labels/month** using EasyPost carrier accounts ($0.08/label overage) | Developer-centric RESTful Shipping API offering multi-carrier rating, package tracking webhooks, automated customs documentation, and address verification. |
+| **[Shippo](https://goshippo.com/)** | **$1.0B Valuation** ($51M+ Rev) | **$19/month** (Professional tier unlocking automations & 5 user seats) | **Free forever plan: Up to 30 labels/month** with Shippo default carrier rates ($0.05/label for custom accounts) | End-to-end shipping dashboard and developer API featuring instant rate comparisons, branded customer tracking pages, batch label generation, and automated returns. |
+| **[Sendcloud](https://www.sendcloud.com/)** | **~$750M Valuation** ($100M+ Rev) | **€28/month (~$30/mo)** (Lite tier up to 400 shipments/mo) | **Free forever plan: Up to 20 labels/month** using pre-negotiated rates (also includes 14-day free trial on paid tiers) | Leading European shipping acceleration platform connecting 100+ European & global carriers with automated label workflows, branded tracking, and localized return portals. |
+| **[Parcel2Go](https://www.parcel2go.com/)** | **£100M+ (~$130M+) Annual Rev** (Mayfair PE backed) | **£9.99/month** (Plus tier unlocking Smart Send priority automation) | **Free forever plan: Standard Pay-As-You-Go** marketplace (0 subscription fee; pay per courier booking) | UK's largest courier and parcel delivery comparison engine; integrates eBay, Amazon, Etsy, and Shopify to compare DPD, Evri, UPS, and Royal Mail options. |
+| **[Pirate Ship](https://www.pirateship.com/)** | **~$50M–$63M+ Estimated Rev** (Bootstrapped & profitable) | **$0/month** (100% free software, zero subscription or markup fees) | **Free forever unlimited: 0 monthly fee, 0 markup** on all volume levels (no limit on shipments) | Cost-leader shipping software providing direct access to discounted USPS Commercial Pricing, USPS Cubic rates, and UPS Ground Saver with zero subscription fees. |
+| **[Freightos](https://www.freightos.com/)** | **~$40M Mkt Cap** (NASDAQ: CRGO, ~$30M+ Rev) | **$119/month** (Freightos Terminal Ocean / Market Intelligence tier) | **Free forever plan: Free freight marketplace booking** for instant international air and ocean spot quotes | International freight rate marketplace and booking digitizer connecting importers and exporters with global air cargo and ocean container freight forwarders. |
 
 ---
 
-## ⚡ Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
-Open-source search engines, vector retrieval databases, and developer libraries used to power custom ecommerce search, catalog filtering, and product discovery experiences. Sorted by GitHub star count (descending).
+The table below lists community-driven, self-hosted, and open-source shipping and logistics frameworks, **sorted in descending order by GitHub star count**. Each repository badge links directly to its stargazer community.
 
-| Repository & Stars | License | Primary Language / Stack | Best For Ecommerce Use Case |
-| :--- | :--- | :--- | :--- |
-| **[elastic/elasticsearch](https://github.com/elastic/elasticsearch)** [![GitHub stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=social&color=white)](https://github.com/elastic/elasticsearch/stargazers) | Elastic-2.0 / SSPL / AGPL-3.0 | Java | Large-scale catalog search, multi-attribute faceted aggregation, real-time inventory filtering, and hybrid dense/sparse vector retrieval. |
-| **[meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)** [![GitHub stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white)](https://github.com/meilisearch/meilisearch/stargazers) | MIT | Rust | Sub-50ms instant search-as-you-type, typo tolerance out of the box, customizable facet filters, and developer-friendly REST/SDK integration. |
-| **[milvus-io/milvus](https://github.com/milvus-io/milvus)** [![GitHub stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers) | Apache-2.0 | Go / C++ / Python | Massive-scale vector similarity search, multimodal product matching (image-to-product), and AI recommendation embeddings. |
-| **[qdrant/qdrant](https://github.com/qdrant/qdrant)** [![GitHub stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers) | Apache-2.0 | Rust | Real-time payload-filtered vector search, semantic natural language catalog search, and multimodal visual discovery. |
-| **[typesense/typesense](https://github.com/typesense/typesense)** [![GitHub stars](https://img.shields.io/github/stars/typesense/typesense?style=social&color=white)](https://github.com/typesense/typesense/stargazers) | GPL-3.0 | C++ | Turnkey open-source alternative to Algolia; in-memory typo-tolerant search, curated merchandising rules, vector search, and faceted filtering. |
-| **[zincsearch/zincsearch](https://github.com/zincsearch/zincsearch)** [![GitHub stars](https://img.shields.io/github/stars/zincsearch/zincsearch?style=social&color=white)](https://github.com/zincsearch/zincsearch/stargazers) | Apache-2.0 | Go | Lightweight, low-memory Elasticsearch alternative for catalog indexing, full-text searching, and simple faceted navigation. |
-| **[opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)** [![GitHub stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white)](https://github.com/opensearch-project/OpenSearch/stargazers) | Apache-2.0 | Java | Fully Apache-2.0 licensed enterprise search engine, distributed catalog indexing, neural search plugin, and analytical product aggregation. |
-| **[vespa-engine/vespa](https://github.com/vespa-engine/vespa)** [![GitHub stars](https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white)](https://github.com/vespa-engine/vespa/stargazers) | Apache-2.0 | C++ / Java | Complex real-time machine learning inference, multi-stage product reranking, personalized recommendations, and massive-scale catalog scoring. |
-| **[algolia/instantsearch](https://github.com/algolia/instantsearch)** [![GitHub stars](https://img.shields.io/github/stars/algolia/instantsearch?style=social&color=white)](https://github.com/algolia/instantsearch/stargazers) | MIT | TypeScript / JavaScript | Frontend UI widget library (React, Vue, JS) for building instant search bars, dynamic facet filters, pagination, and sorting interfaces. |
-| **[codelibs/fess](https://github.com/codelibs/fess)** [![GitHub stars](https://img.shields.io/github/stars/codelibs/fess?style=social&color=white)](https://github.com/codelibs/fess/stargazers) | Apache-2.0 | Java | Self-hosted enterprise and site search server built on OpenSearch; crawls web, database, and document repositories with 20+ language support and AI/RAG capabilities. |
-
----
-
-## 🛠️ Architecture & Frameworks for Custom Discovery
-
-While open-source tools provide the foundational indexing and retrieval layers, full turnkey ecommerce product discovery (incorporating automated visual merchandising, pin/bury promotions, dynamic revenue-boosting algorithms, and behavioral tracking) generally requires combining specialized components:
-
-```
-[ Frontend: InstantSearch / Headless UI ]
-                   │
-                   ▼
-[ Middleware API: Synonyms / Rule Merchandising Engine ]
-                   │
-         ┌─────────┴─────────┐
-         ▼                   ▼
-[ Lexical / Facet Index ]  [ Dense Vector Index ]
- (Typesense / Meilisearch)  (Qdrant / Milvus / Vespa)
-```
-
-1. **⚡ In-Memory Lexical & Facet Engines**: Platforms like **[Typesense](https://github.com/typesense/typesense)** and **[Meilisearch](https://github.com/meilisearch/meilisearch)** deliver the developer ergonomics and sub-50ms response times needed for search-as-you-type and facet filtering.
-2. **🧠 Dense Vector & Semantic Retrieval**: Vector engines like **[Qdrant](https://github.com/qdrant/qdrant)** and **[Milvus](https://github.com/milvus-io/milvus)** enable natural language intent matching, CLIP-based visual image discovery, and embedding similarity recommendations.
-3. **⚙️ Enterprise Reranking & ML Systems**: **[Vespa](https://github.com/vespa-engine/vespa)** and **[OpenSearch](https://github.com/opensearch-project/OpenSearch)** provide multi-stage reranking pipelines capable of applying custom business logic and online machine-learning models to catalog search queries.
+| Project | Stars | Primary Language / Stack | License | Key Logistics Architecture |
+| :--- | :---: | :--- | :--- | :--- |
+| **[GreaterWMS](https://github.com/GreaterWMS/GreaterWMS)** | [![GitHub stars](https://img.shields.io/github/stars/GreaterWMS/GreaterWMS?style=social&color=white)](https://github.com/GreaterWMS/GreaterWMS/stargazers) | Python / Django / Vue.js | Apache-2.0 | Fully featured open-source Warehouse Management System (WMS) born out of automotive supply-chain operations; covers inbound sorting, bin allocation, pick-and-pack, and multi-warehouse stock movements. |
+| **[Fleetbase](https://github.com/fleetbase/fleetbase)** | [![GitHub stars](https://img.shields.io/github/stars/fleetbase/fleetbase?style=social&color=white)](https://github.com/fleetbase/fleetbase/stargazers) | PHP / Laravel / Ember.js | AGPL-3.0 | Modular Logistics Operating System (LSOS) for last-mile delivery and dispatch; provides `fleetops` for driver telematics, route assignment, live GPS tracking, and proof-of-delivery (PoD). |
+| **[VROOM](https://github.com/VROOM-Project/vroom)** | [![GitHub stars](https://img.shields.io/github/stars/VROOM-Project/vroom?style=social&color=white)](https://github.com/VROOM-Project/vroom/stargazers) | C++ / NodeJS / Docker | BSD-2-Clause | Ultra-fast Vehicle Routing Open-source Optimization Machine; solves complex Traveling Salesperson (TSP) and Capacitated Vehicle Routing Problems (CVRP) with time windows and pickup-and-delivery constraints. |
+| **[OpenBoxes](https://github.com/openboxes/openboxes)** | [![GitHub stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers) | Groovy / Grails / Java | Eclipse Public | Enterprise supply-chain and inventory tracking system built for complex distribution environments; manages cold-chain validation, purchase order tracking, shipment manifests, and cross-docking. |
+| **[Karrio](https://github.com/karrioapi/karrio)** | [![GitHub stars](https://img.shields.io/github/stars/karrioapi/karrio?style=social&color=white)](https://github.com/karrioapi/karrio/stargazers) | Python / Django / React | Apache-2.0 | Programmable multi-carrier shipping engine and self-hosted API alternative to EasyPost and Shippo; unifies live rate calculation, PDF/ZPL label generation, document customs forms, and tracking webhooks across carriers. |
+| **[org.openwms](https://github.com/openwms/org.openwms)** | [![GitHub stars](https://img.shields.io/github/stars/openwms/org.openwms?style=social&color=white)](https://github.com/openwms/org.openwms/stargazers) | Java / Spring Boot / Microservices | Apache-2.0 | Modern distributed warehouse control and inventory management framework; modular architecture built for material flow control, automated conveyor systems, picking stations, and shipping dispatch. |
+| **[PyVRP](https://github.com/PyVRP/PyVRP)** | [![GitHub stars](https://img.shields.io/github/stars/PyVRP/PyVRP?style=social&color=white)](https://github.com/PyVRP/PyVRP/stargazers) | Python / C++ | MIT | State-of-the-art vehicle routing problem solver library; optimizes complex logistics dispatching, fleet capacity limits, duration limits, and multi-stop delivery routes with high computational efficiency. |
+| **[CoopCycle](https://github.com/coopcycle/coopcycle-web)** | [![GitHub stars](https://img.shields.io/github/stars/coopcycle/coopcycle-web?style=social&color=white)](https://github.com/coopcycle/coopcycle-web/stargazers) | PHP / Symfony / React Native | AGPL-3.0 | Complete open-source delivery dispatch and marketplace platform created for worker-owned bike courier cooperatives; offers order management, route dispatching, mobile driver app, and customer tracking. |
+| **[stock-logistics-warehouse (OCA)](https://github.com/OCA/stock-logistics-warehouse)** | [![GitHub stars](https://img.shields.io/github/stars/OCA/stock-logistics-warehouse?style=social&color=white)](https://github.com/OCA/stock-logistics-warehouse/stargazers) | Python / Odoo | AGPL-3.0 | Suite of Odoo Community Association (OCA) modules expanding inventory and warehouse operations with advanced wave picking, storage packaging rules, and cross-docking controls. |
+| **[delivery-carrier (OCA)](https://github.com/OCA/delivery-carrier)** | [![GitHub stars](https://img.shields.io/github/stars/OCA/delivery-carrier?style=social&color=white)](https://github.com/OCA/delivery-carrier/stargazers) | Python / Odoo | AGPL-3.0 | Standard Odoo carrier integrations and label-generation modules; provides uniform carrier file output, automated tracking number updates, and shipping cost calculations for enterprise ERP users. |
+| **[Shippy](https://github.com/verbb/shippy)** | [![GitHub stars](https://img.shields.io/github/stars/verbb/shippy?style=social&color=white)](https://github.com/verbb/shippy/stargazers) | PHP | MIT | Lightweight, framework-agnostic multi-carrier shipping package for PHP developers; supports seamless calculation of shipping rates, validation, and label endpoints across common couriers. |
 
 ---
 
-## 🤝 How to Contribute
+## 🛠️ Architectural Building Blocks
 
-Contributions are welcome! Help keep this directory current by submitting updates or new tools:
-
-1. **Fork the repository** 🍴
-2. **Add or edit entries** in `README.md` following the established table structure 📝
-3. **Include factual data**: product name, official website/repo link, verified starting pricing/tier limits, company scale, and key discovery capabilities 🔍
-4. **Submit a pull request** with a concise description of your changes 🚀
+When architecting a production-grade, self-hosted shipping and logistics infrastructure:
+1. **Carrier API & Label Generation Layer**: Use **[Karrio](https://github.com/karrioapi/karrio)** for rate shopping across USPS, FedEx, DHL, and UPS, generating shipping labels, and normalizing tracking statuses into webhooks.
+2. **Dispatch & Route Optimization Engine**: Pair **[VROOM](https://github.com/VROOM-Project/vroom)** or **[PyVRP](https://github.com/PyVRP/PyVRP)** with OpenStreetMap/OSRM to compute optimal driver routing and reduce fuel and dispatch overhead.
+3. **Warehouse Operations & Inventory Layer**: Deploy **[GreaterWMS](https://github.com/GreaterWMS/GreaterWMS)** or **[OpenBoxes](https://github.com/openboxes/openboxes)** to handle warehouse barcoding, SKU location tracking, wave picking, and container packing.
+4. **Fleet & Last-Mile Management**: Deploy **[Fleetbase](https://github.com/fleetbase/fleetbase)** or **[CoopCycle](https://github.com/coopcycle/coopcycle-web)** to handle mobile driver navigation, real-time geofenced ETA alerts, and photographic proof-of-delivery (PoD).
 
 ---
 
 ## 💖 Support
 
-Thank you for exploring and utilizing this curated directory! If you find this resource valuable for your ecommerce engineering, search optimization, or merchandising workflows, please consider supporting the project:
+Thank you for exploring and utilizing this curated directory! If this ecosystem guide helped you navigate shipping APIs, open-source logistics frameworks, or warehouse tech stacks, please consider showing your support:
 
 - ⭐ **Star this repository** on GitHub to help others discover it.
 - 🍴 **Fork and share** the project with your team and community.
-- ☕ **Sponsor or buy a coffee** to back continued updates and maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
-
-Your backing and contributions help keep this ecosystem resource active, comprehensive, and up-to-date! 🙌
-
----
-
-## 📈 Star History
-
-[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Site-Search-Product-Discovery&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Site-Search-Product-Discovery&type=date&legend=top-left)
+- 📢 **Share this list** with fellow ecommerce merchants, 3PL managers, and logistics developers.
+- ☕ **Buy me a coffee / Sponsor**: If you find continuous value in this work, consider supporting through the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
-## ⚖️ Disclaimer
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Shipping-Logistics-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Shipping-Logistics-Platform&type=date&legend=top-left)
 
-- This repository is a community-curated resource for informational purposes and does not represent an endorsement of any listed platform or vendor.
-- Pricing, free tier thresholds, and corporate valuation/revenue figures are subject to change over time; verify current commercial agreements with official vendors before procurement.
-- When capturing, indexing, or logging end-user search queries and shopping behavior, ensure compliance with applicable data privacy regulations (e.g., GDPR, CCPA/CPRA).
+---
+
+## 🤝 How to Contribute
+
+Contributions are welcome! Help keep this shipping and logistics guide accurate and up-to-date:
+
+1. **Fork** this repository.
+2. Create your feature branch (`git checkout -b feature/add-carrier-platform`).
+3. Add or update entries with verified corporate revenue/valuation, starting tier prices, free tier limits, and GitHub stargazer badges.
+4. Keep commentary strictly objective and factual.
+5. Commit your changes and open a **Pull Request** detailing your update.
+
+---
+
+## ⚠️ Disclaimer & License Terms
+
+- This directory is community-curated for informative, architectural, and educational purposes. Inclusion does not imply formal commercial endorsement.
+- Verify carrier compliance, data protection standards (GDPR, SOC2, PCI-DSS), and secure token handling before handling commercial customer address books and shipping payment APIs in production.
+- Review open-source licenses carefully before commercial bundling (`Apache-2.0`, `MIT`, `Eclipse Public`, `AGPL-3.0`).
 
 ---
 
 <p align="center">
-  <b>Maintained for ecommerce engineers, merchandising professionals, and search system architects.</b>
+  <sub>Built with ❤️ for ecommerce merchants, 3PL managers, fleet operators, and logistics platform engineers.</sub>
 </p>
