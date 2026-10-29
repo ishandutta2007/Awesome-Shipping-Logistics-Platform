@@ -56,7 +56,7 @@ The table below lists the top commercial shipping, rate shopping, label generati
 
 ## 💻 Open-Source GitHub Projects
 
-The table below lists community-driven, self-hosted, and open-source shipping and logistics frameworks, **sorted in descending order by GitHub Stars_Count**. Each repository badge links directly to its stargazer community.
+The table below lists community-driven, self-hosted, and open-source shipping and logistics frameworks, **sorted in descending order by GitHub_Stars_Count**. Each repository badge links directly to its stargazer community.
 
 | Project | GitHub_Stars | Primary Language / Stack | License | Key Logistics Architecture |
 | :--- | :---: | :--- | :--- | :--- |
